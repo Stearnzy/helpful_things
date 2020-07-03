@@ -1,7 +1,7 @@
 Eggs
 Bread
 Milk
-Juice
+
 
 Coffee
 Tea
