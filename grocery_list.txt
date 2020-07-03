@@ -2,3 +2,8 @@ Eggs
 Bread
 Milk
 Juice
+
+Coffee
+Tea
+Cat food
+Veggies
